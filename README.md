@@ -1,5 +1,5 @@
 ## Hi there 👋
-Experienced software engineer specializing in front-end development, Proficient in developing single-page applications with JavaScript and React, continuously seeks to expand knowledge on new front-end technologies.
+I'm Mohi, An experienced software engineer specializing in front-end development, Proficient in developing single-page applications, and continuously seeking to expand my knowledge of new front-end technologies.
 <h1>Languages and Tools</h1>
 
 <p align="left" dir="auto">
