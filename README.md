@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Experienced software engineer specializing in front-end development, Proficient in developing single-page applications with JavaScript and React, continuously seeks to expand knowledge on new front-end technologies.
 <!--
 **mohi-az/mohi-az** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
