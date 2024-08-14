@@ -1,7 +1,7 @@
 ## Hi there 👋
 Experienced software engineer specializing in front-end development, Proficient in developing single-page applications with JavaScript and React, continuously seeks to expand knowledge on new front-end technologies.
 <h1>Languages and Tools</h1>
-<hr/>
+
 <p align="left" dir="auto">
   <a href="https://www.w3.org/html/" rel="nofollow"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML5" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://www.w3schools.com/css/" rel="nofollow"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS3" width="40" height="40" style="max-width: 100%;"></a>
