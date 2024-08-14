@@ -8,15 +8,10 @@ Experienced software engineer specializing in front-end development, Proficient 
   <a href="https://tailwindcss.com/" rel="nofollow"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://sass-lang.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40" style="max-width: 100%;"></a>
-  <a href="https://jquery.com/" rel="nofollow"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JQuery.svg" alt="jQuery" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://reactjs.org/" rel="nofollow"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="React" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://redux.js.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="max-width: 100%;"></a>
-  <a href="https://gulpjs.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="Gulp" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" alt="TypeScript" width="40" height="40" style="max-width: 100%;"></a>
-  <a href="https://nodejs.org" rel="nofollow"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="Node.js" width="40" height="40" style="max-width: 100%;"></a>
-  <a href="https://www.mongodb.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://git-scm.com/" rel="nofollow"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git" width="40" height="40" style="max-width: 100%;"></a>
-  <a href="https://vuejs.org/" rel="nofollow"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" alt="Vue.js" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://nextjs.org/" rel="nofollow"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" alt="Next.js" width="40" height="40" style="max-width: 100%;"></a>
 </p>
 <!--
