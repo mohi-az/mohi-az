@@ -1,10 +1,27 @@
 ## About Me 
-Hello 👋
-<p>
+
+# Hello 👋  
+
+I'm Mohi, an experienced software engineer specializing in **front-end development**. I thrive on building sleek, responsive single-page applications (SPAs) and I'm always eager to dive into the latest front-end technologies.  
+
+### What You'll Find Here  
+- **Modern Front-End Projects**: Built with frameworks like **React** and **Next.js**, with a strong focus on **TypeScript**.  
+- **Continuous Learning**: Experimenting with advanced topics such as **SSR/CSR**, state management, and performance optimization.  
+
+### Curious About My Coding Style?  
+Check out <a href='https://github.com/mohi-az/PlanPlus'> **PlanPlus**</a>, a dynamic to-do list application where I demonstrate:  
+- Flexible rendering strategies (SSR and CSR) using React v19 and Nextjs v15
+- Database integration with **Prisma**  
+- Authentication handled via **Next-Auth**  
+- Robust data validation using **Zod**  
+- Beautiful UI with **Tailwind CSS** and **DaisyUI**  
+- Clean, maintainable, and scalable code
   
-I'm Mohi, An experienced software engineer specializing in front-end development, Proficient in developing single-page applications, and continuously seeking to expand my knowledge of new front-end technologies.
-<h1>Tech Stack</h1>
-</p>
+While **PlanPlus** is a simple project, its primary goal is to demonstrate my coding skills, clean architecture, and ability to build scalable and maintainable applications. It’s a work in progress, and I’m excited to keep iterating on it.  
+
+### Let’s Connect!  
+Explore my repositories, and feel free to star or fork anything you like! 😄  
+
 
 <div style="display: flex;flex-direction: row;justify-content:center;gap: 10px;">
   <a href="https://www.w3.org/html/" rel="nofollow"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML5" width="40" height="40" style="max-width: 100%;"></a>
@@ -18,5 +35,6 @@ I'm Mohi, An experienced software engineer specializing in front-end development
   <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" alt="TypeScript" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://git-scm.com/" rel="nofollow"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://nextjs.org/" rel="nofollow"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" alt="Next.js" width="40" height="40" style="max-width: 100%;"></a>
+  <a href="https://prisma.io/" rel="nofollow"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg" alt="Next.js" width="40" height="40" style="max-width: 100%;"></a>
 </div>
 
