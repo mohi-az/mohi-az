@@ -2,11 +2,12 @@
 
 # Hello 👋  
 
-I'm Mohi, an experienced software engineer specializing in **front-end development**. I thrive on building sleek, responsive single-page applications (SPAs) and I'm always eager to dive into the latest front-end technologies.  
+I'm **Mohi**, a passionate and experienced Full Stack Developer with a focus on sleek, responsive single-page applications (SPAs). I love exploring modern front-end ecosystems and backend integrations, and I’m always eager to learn and grow.
 
 ### What You'll Find Here  
-- **Modern Front-End Projects**: Built with frameworks like **React** and **Next.js**, with a strong focus on **TypeScript**.  
-- **Continuous Learning**: Experimenting with advanced topics such as **SSR/CSR**, state management, and performance optimization.  
+- **Front-End Projects** built with React, Next.js, and TypeScript
+- **Back-End Projects** powered by Node.js (Express) and Prisma
+- Constant learning in areas like SSR/CSR, state management, and performance optimization 
 
 ### Curious About My Coding Style?  
 Check out <a href='https://github.com/mohi-az/PlanPlus'> **PlanPlus**</a>, a dynamic to-do list application where I demonstrate:  
