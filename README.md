@@ -5,7 +5,7 @@
 I'm **Mohi**, a passionate and experienced Full Stack Developer with a focus on sleek, responsive single-page applications (SPAs). I love exploring modern front-end ecosystems and backend integrations, and I’m always eager to learn and grow.
 
 ### What You'll Find Here  
-- **Front-End Projects** built with React, Next.js, and TypeScript
+- **Front-End Projects** built with React, Next.js, Angular, NgRx, and TypeScript
 - **Back-End Projects** powered by Node.js (Express) and Prisma
 - Constant learning in areas like SSR/CSR, state management, and performance optimization 
 
